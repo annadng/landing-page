@@ -125,3 +125,10 @@ h2 {
     margin: 0;
     max-width: 700px;
 }
+
+footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+    text-align: center;
+    padding: 16px 0px;
+}
